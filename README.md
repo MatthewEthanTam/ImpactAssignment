@@ -2,8 +2,7 @@
 
 ## Submission
 
-Since I did not get a link to the github to create a pull request, I create a repository and created pull request in this github but all the code is already in the respoitory,
-and I am adding the github link in the additional note.
+Since I did not get a link to the github to create a pull request, I created a repository and created pull request in this github but all the code is already in the respoitory and the pull request is to show that I can make a pull request, and I am adding the github link in the additional note.
 
 ## Quick Setup
 
