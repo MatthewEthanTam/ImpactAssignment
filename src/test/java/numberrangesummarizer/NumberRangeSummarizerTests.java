@@ -109,4 +109,13 @@ public class NumberRangeSummarizerTests {
       String output = test.summarizeCollection(arr);
       assertEquals(output, expectedAsnwer6);
    }
+
+   @Test
+   public void AdditionalTest() {
+      String example7 = "4,3,2,1,1,2";
+      String expectedAsnwer7 = "4-1, 1-2";
+      Collection<Integer> arr = test.collect(example7);
+      String output = test.summarizeCollection(arr);
+      assertEquals(output, expectedAsnwer7);
+   }
 }
